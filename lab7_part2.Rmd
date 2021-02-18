@@ -134,3 +134,4 @@ ggplot(data = hobbit_nrc_counts, aes(x= sentiment, y= n))+
   coord_flip()
 ```
 #done
+##
