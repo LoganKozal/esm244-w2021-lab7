@@ -133,4 +133,4 @@ ggplot(data = hobbit_nrc_counts, aes(x= sentiment, y= n))+
   facet_wrap(~chapter)+
   coord_flip()
 ```
-
+#done
